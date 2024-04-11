@@ -1,0 +1,28 @@
+package com.dao;
+
+import java.sql.Connection;
+
+import com.entity.Jobs;
+
+public class jobDao {
+
+	private Connection con;
+
+	public jobDao(Connection con) {
+		super();
+		this.con = con;
+	}
+	
+	public boolean add_job(Jobs j) {
+		
+		boolean f = false;
+		try {
+			String sql = "insert into job_portal(title,description)";
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return f;
+	}
+	
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+D:\Study\Practice\Projects\Online Job Portal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1706644.index
+\Job_Portal\src\main\resources
+D:\Study\Practice\Projects\Online Job Portal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3208860360.index
+\Job_Portal\src\main\java
+D:\Study\Practice\Projects\Online Job Portal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2380201237.index
+\Job_Portal\src\main\java

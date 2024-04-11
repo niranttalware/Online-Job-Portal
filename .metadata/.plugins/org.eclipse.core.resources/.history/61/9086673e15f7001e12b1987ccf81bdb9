@@ -1,0 +1,27 @@
+package com.dao;
+
+import java.sql.Connection;
+
+import com.entity.User;
+
+public class UserDao {
+
+	private Connection con;
+
+	public UserDao(Connection con) {
+		super();
+		this.con = con;
+	}
+	
+	public boolean addUser(User u)
+	{
+		try {
+			
+			
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+}
